@@ -1,0 +1,1 @@
+I have Complete Data Analysis Application here. I have work with duplicates values manage, Min, Max, Pivoting (maek Char data into numeric), Rolling Calculation ( sum, avg, round, null value to avearge value)
